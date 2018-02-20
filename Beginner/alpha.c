@@ -1,6 +1,6 @@
 int main()
 {
-char c;
+String c;
 scanf("%c",&c);
 if(isalpha(c))
 {
