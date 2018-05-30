@@ -17,7 +17,7 @@ t1/=10;
 }
 while(t2!=0)
 {
-rem=t%10;
+rem=t2%10;
 sum+=pow(rem,m);
 t2/=10;
 }
